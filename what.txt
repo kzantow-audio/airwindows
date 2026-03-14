@@ -156,6 +156,7 @@ Ditherbox is a switchable selection of dithers in 16 and 24 bit, plus monitoring
 DitherFloat is a demo of floating point truncation: can also dither to 32 bit float output.[coll=]
 DitherMeDiskers is dark deep 'dither' in a 16 bit version.[coll=]
 DitherMeTimbers is dark deep 'dither' in a 24 bit version.[coll=]
+Donut is in memory of Dilla.[coll=Latest]
 Doublelay is StereoDoubler with independent delays and feedback.[coll=Latest]
 DoublePaul is like PaulDither but more so.[coll=]
 Drive is the angry distortion![coll=Latest]
